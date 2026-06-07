@@ -1,5 +1,6 @@
 import React from "react";
-import { ArrowUpRight, Mail, Sparkles } from "lucide-react";
+import { createRoot } from "react-dom/client";
+import { ArrowUpRight, Sparkles } from "lucide-react";
 import "./styles.css";
 
 const products = [
@@ -37,7 +38,7 @@ const products = [
   },
 ];
 
-export default function App() {
+function App() {
   return (
     <main className="site-shell">
       <nav className="nav">
@@ -156,3 +157,4 @@ export default function App() {
   );
 }
 
+createRoot(document.getElementById("root")).render(<App />);
