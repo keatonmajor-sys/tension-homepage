@@ -1,1 +1,462 @@
+# TENSION — CURRENT STATE FILE
+
+## Updated After First Live Homepage Deployment
+
+### June 6, 2026 — ~9:40 PM PST
+
+---
+
+# PROJECT STATUS
+
+Tension has officially moved from:
+
+## conceptual identity work
+
+into:
+
+## live homepage experimentation
+
+A first atmospheric homepage MVP is now:
+
+* deployed live on Vercel
+* connected to GitHub
+* editable through file replacement workflow
+
+This is a major milestone because the project can now evolve through:
+
+# visual iteration instead of abstract discussion
+
+---
+
+# CORE BRAND POSITIONING
+
+## Tension is NOT:
+
+* a generic ecommerce store
+* a “moody luxury interiors” brand
+* a sterile design brand
+* a minimal furniture catalog
+* a hosting-only concept
+
+## Tension IS:
+
+# socially magnetic modern living
+
+More specifically:
+
+* people with magnetic lives
+* creative modern apartments
+* emotionally alive spaces
+* personality-driven interiors
+* tasteful but unpretentious living
+* warm modern energy balanced with contrast
+* homes people want proximity to
+
+---
+
+# MOST IMPORTANT BRAND REALIZATION
+
+The strongest positioning breakthrough so far:
+
+# “The apartment everyone wants to end up at.”
+
+This remains one of the clearest emotional north stars.
+
+The homepage should feel like:
+
+* entering a cool creative person’s apartment
+* or an amazing friend-of-a-friend’s apartment
+* where things are always kind of happening
+
+The space should imply:
+
+* music
+* personality
+* conversation
+* emotional texture
+* real inhabitation
+* social gravity
+
+NOT:
+
+* staged luxury
+* furniture showroom perfection
+* Pinterest moodboard energy
+
+---
+
+# IMPORTANT HOMEPAGE CORRECTION DISCOVERED
+
+An AI-generated homepage exploration revealed a major risk:
+
+## WRONG DIRECTION:
+
+“moody luxury interiors brand”
+
+Problems discovered:
+
+* too dark
+* too static
+* too sophisticated
+* too generic
+* not magnetic enough
+* not playful/confident enough
+* not socially alive enough
+
+This was a critical breakthrough.
+
+---
+
+# NEW VISUAL TARGET
+
+The homepage should feel:
+
+# energetic + atmospheric
+
+NOT:
+
+# sleepy + aesthetic-only
+
+The site needs:
+
+* social momentum
+* contrast
+* movement
+* confidence
+* brightness moments
+* cleaner modern tension
+* more editorial energy
+* more personality
+
+---
+
+# IMPORTANT ATMOSPHERIC SHIFT
+
+Originally the project leaned:
+
+## nighttime-only
+
+This has now evolved into:
+
+# day-to-night magnetic living
+
+Meaning the site should contain:
+
+* warm evening energy
+* daytime natural light
+* morning coffee moments
+* records at 4pm
+* dinner at 8pm
+* city glow at midnight
+
+The site should feel like:
+
+# an actual life unfolding
+
+---
+
+# HOMEPAGE COPY CURRENTLY USED
+
+## Hero Headline
+
+# “cool people live here”
+
+This is currently strongly resonating.
+
+Why it works:
+
+* simple
+* socially aspirational
+* playful
+* confident
+* culturally aware
+* not over-written
+
+---
+
+## World Statement
+
+# “socially magnetic modern living”
+
+Still functioning as the best concise articulation of the brand.
+
+---
+
+# PRODUCT PHILOSOPHY
+
+Critical realization:
+
+Products are:
+
+# artifacts from the apartment
+
+NOT:
+
+# ecommerce SKUs
+
+This affects:
+
+* photography
+* layout
+* spacing
+* copy
+* product count
+* presentation
+
+The products should feel:
+
+* discovered
+* personal
+* emotionally contextualized
+* lived with
+
+---
+
+# PRODUCT STRATEGY
+
+The homepage intentionally launched with:
+
+## only 3–4 objects
+
+Important alignment:
+
+* restraint feels more premium
+* fake scale would hurt credibility
+* atmosphere matters more than inventory depth right now
+
+Future direction:
+
+* 3–4 strong launch objects
+* several “coming soon”
+* editorial presentation
+* slow intentional expansion
+
+---
+
+# COLOR SYSTEM EVOLUTION
+
+Major realization:
+
+## warmth alone is not enough
+
+The palette needs:
+
+# tension inside the palette too
+
+Otherwise the site risks becoming:
+
+* muddy
+* sleepy
+* vintage-only
+* too nostalgic
+* Pinterest apartment aesthetic
+
+---
+
+# CURRENT COLOR SYSTEM DIRECTION
+
+## Foundations
+
+* warm cream
+* smoked ivory
+* espresso
+* walnut
+* warm charcoal
+
+## Warm accents
+
+* rust
+* amber
+* burgundy
+* olive
+
+## Cooling contrast tones
+
+* faded slate blue
+* petroleum blue
+* muted steel
+* dusty sage
+* mineral green
+* oxidized metal tones
+
+The goal:
+
+# warm light hitting cooler materials
+
+NOT:
+
+# everything warm
+
+---
+
+# TYPOGRAPHY DIRECTION
+
+Still aligned around:
+
+## Serif
+
+Canela-style editorial warmth
+
+## Sans
+
+restrained modern structural support
+
+Typography should:
+
+* support atmosphere
+* not dominate the site
+* feel cinematic but modern
+
+---
+
+# TECH STACK
+
+## Confirmed Stack
+
+* React
+* Vite
+* GitHub
+* Vercel
+* mobile-first approach
+
+Supabase exists for future use but is NOT needed yet.
+
+---
+
+# GITHUB + VERCEL STATUS
+
+## GitHub Repo Created
+
+# tension-homepage
+
+## Vercel Deployment
+
+Successfully connected and deployed.
+
+## Current Live Domain
+
+https://tension-homepage.vercel.app
+
+---
+
+# IMPORTANT TECHNICAL LESSON
+
+Initial deployment issue:
+
+* `App.jsx` naming/path issue caused build failure
+* later homepage rendered blank because React root mount logic was missing
+
+Fix applied:
+
+* updated `src/App.jsx`
+* added `createRoot(...).render(<App />)`
+
+This is now functioning.
+
+---
+
+# CURRENT FILE WORKFLOW
+
+The preferred workflow is now firmly established:
+
+## ALWAYS provide:
+
+* full file replacements
+* unique filenames
+* downloadable files
+
+NEVER:
+
+* partial code snippets
+* inline patching
+* fragmented code edits
+
+This dramatically reduces friction/confusion.
+
+---
+
+# CURRENT HOMEPAGE STATE
+
+The current homepage is:
+
+* live
+* functional
+* atmospheric foundation only
+
+It is NOT yet:
+
+* visually refined
+* truly magnetic
+* differentiated enough
+* emotionally dynamic enough
+
+Current version still needs:
+
+* stronger visual pacing
+* more personality
+* better contrast
+* more alive editorial rhythm
+* less generic luxury energy
+* more magnetic social energy
+
+---
+
+# NEXT SESSION STARTING POINT
+
+At the beginning of the next session:
+
+## User will provide:
+
+* screenshot(s) of current homepage live state
+
+Then next work should focus on:
+
+# refining the actual homepage experience
+
+NOT:
+
+* backend
+* ecommerce systems
+* payments
+* admin systems
+* infrastructure
+
+---
+
+# NEXT PRIORITIES
+
+## Immediate Refinement Targets
+
+* hero redesign/refinement
+* better homepage pacing
+* stronger contrast system
+* more alive image sequencing
+* more confidence/playfulness
+* less generic luxury
+* improved mobile feel
+* better section rhythm
+* more editorial energy
+* stronger emotional magnetism
+
+---
+
+# MOST IMPORTANT STRATEGIC POSITION
+
+Tension is becoming:
+
+# a socially magnetic taste world
+
+The real product is:
+
+# social and emotional gravity
+
+The site is selling:
+
+* a life people want proximity to
+* apartments with personality
+* magnetic modern living
+* emotionally textured homes
+* people with taste who still have fun
+
+This positioning now feels stable enough to continue aggressively building against.
 
